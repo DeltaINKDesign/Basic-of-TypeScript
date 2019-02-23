@@ -1,0 +1,1 @@
+const exampleTuple: [string, number] = ['Hello', 30];
